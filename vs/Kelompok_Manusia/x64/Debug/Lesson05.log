@@ -1,8 +1,0 @@
-﻿  glad.c
-  RenderEngine.cpp
-  Demo.cpp
-  Generating Code...
-  LINK : D:\Materi Kuliah\GrafKom\Kode Program\Grafika Komputer dan Visualisasi\vs\x64\Debug\Lesson05.exe not found or not built by the last incremental link; performing full link
-Demo.obj : error LNK2019: unresolved external symbol SOIL_load_image referenced in function "private: void __cdecl Demo::BuildCube(void)" (?BuildCube@Demo@@AEAAXXZ)
-Demo.obj : error LNK2019: unresolved external symbol SOIL_free_image_data referenced in function "private: void __cdecl Demo::BuildCube(void)" (?BuildCube@Demo@@AEAAXXZ)
-D:\Materi Kuliah\GrafKom\Kode Program\Grafika Komputer dan Visualisasi\vs\x64\Debug\Lesson05.exe : fatal error LNK1120: 2 unresolved externals
